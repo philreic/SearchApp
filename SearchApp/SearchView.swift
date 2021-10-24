@@ -7,6 +7,8 @@
 
 import SwiftUI
 
+import AVKit
+
 struct SearchView: View {
     
     @ObservedObject var model: SearchViewModel
